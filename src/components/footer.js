@@ -18,7 +18,7 @@ const Footer = ({ social }) => (
       <a
         className="text-primary-500 hover:text-primary-700 font-bold"
         href="https://saqibkamran.tech"
-        target="_blank"
+        target="_self"
         rel="noopener noreferrer"
       >
         Muhammad Saqib Kamran
