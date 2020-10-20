@@ -40,6 +40,10 @@
       "type": "percent",
       "subskills": [
         {
+          "name": "C/ C++",
+          "percent": 96
+        },
+        {
           "name": "Javascript",
           "percent": 95
         },
@@ -54,6 +58,14 @@
         {
           "name": "C#",
           "percent": 85
+        },
+        {
+          "name": "SQL",
+          "percent": 95
+        },
+        {
+          "name": "HTML/ CSS",
+          "percent": 92
         },
         {
           "name": "SQL",
