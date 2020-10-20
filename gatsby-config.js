@@ -6,22 +6,19 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Baran Cezayirli | Technologist`,
-    author: `Baran Cezayirli`,
-    description: `With 10+ years of experience in various industries, I help tech
-              startups from idea phase to high volumes. I design and build
-              scalable solutions, implement internal processes that fit your
-              organization, build teams that produce results.`,
-    siteUrl: `https://barancezayirli.com/`,
+    title: `Muhammad Saqib Kamran | Computer Science Professional`,
+    author: `Muhammad Saqib Kamran`,
+    description: `I am a Final Year BS Computer Science student at FAST National University of Computer and Emerging Sciences Lahore, Pakistan. Seeking a position that will take full advantage of my qualification, interpersonal and intrapersonal skills and provide me an environment where I can enhance my skills and aptitude as well.`,
+    siteUrl: `https://saqibkamran.tech/`,
     social: {
-      twitter: `barancezayirli`,
+      twitter: `saqibkamran007`,
     },
   },
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Baran Cezayirli | Technologist`,
+        name: `Muhammad Saqib Kamran | Computer Science Professional`,
         short_name: `CV`,
         start_url: `/`,
         background_color: `#f7f0eb`,
